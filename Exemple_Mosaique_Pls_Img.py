@@ -64,7 +64,6 @@ for y in tqdm(range(0,H,1)):
 
     for x in range(0,W,1):
         try :
-            #cf gif 'explication mosaique'
             indice_tableau = y*W + x
             # on définit nos variables pour la position de la petite image
             position_x_gauche = x*w
