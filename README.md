@@ -8,7 +8,7 @@ Recreate an image from other images
 ```
 python3 Exemple_Mosaique_Pls_Img.py --img image_name --doss folder_name
 ```
-image_name = image to recreate
+image_name = image to recreate /
 folder_name = folder with the images to use
 
 # Output
